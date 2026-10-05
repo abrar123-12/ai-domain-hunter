@@ -1,0 +1,47 @@
+{
+  "niches": [
+    "AI",
+    "Artificial Intelligence",
+    "LLM",
+    "AI Agents",
+    "Automation",
+    "Workflow Automation",
+    "SaaS",
+    "Developer Tools",
+    "AI Infrastructure",
+    "Machine Learning"
+  ],
+  "tld_priority": {
+    ".com": 100,
+    ".ai": 95,
+    ".io": 80,
+    ".dev": 75
+  },
+  "scoring": {
+    "brandability": 25,
+    "market_relevance": 25,
+    "memorability": 15,
+    "commercial_potential": 20,
+    "tld_quality": 10,
+    "shortness": 5
+  },
+  "preferred_length": {
+    "excellent": 10,
+    "good": 15,
+    "acceptable": 20,
+    "maximum": 25
+  },
+  "penalties": {
+    "hyphen": -15,
+    "numbers": -15,
+    "hard_to_spell": -20,
+    "very_long": -15,
+    "obvious_trademark_risk": -100
+  },
+  "buy_rules": {
+    "minimum_score": 80,
+    "preferred_score": 85,
+    "maximum_registration_price_usd": 15,
+    "manual_approval_required": true
+  }
+}
